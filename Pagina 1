@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Radiohead - Biografía</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<header>
+    <h1>Radiohead</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Biografía</a></li>
+            <li><a href="obras.html">Obras</a></li>
+            <li><a href="videos.html">Videos</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <h2>Biografía</h2>
+    <p><b>Radiohead</b> es una banda británica formada en 1985 en <i>Abingdon, Oxfordshire</i>.</p>
+    <p>Está compuesta por Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O’Brien y Philip Selway.</p>
+
+    <h3>Primeros años</h3>
+    <p>La banda comenzó bajo el nombre "On a Friday" antes de ser firmada por EMI.</p>
+
+    <h3>Logros destacados</h3>
+    <ul>
+        <li>Álbum debut: <b>Pablo Honey</b> (1993)</li>
+        <li>Reconocimiento mundial con <i>OK Computer</i> (1997)</li>
+        <li>Innovación con <b>Kid A</b> (2000)</li>
+    </ul>
+</main>
+
+<footer>
+    <p>Seroav · Diciembre 2025</p>
+</footer>
+
+</body>
+</html>
