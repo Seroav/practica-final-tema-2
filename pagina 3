@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Radiohead - Videos</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<header>
+    <h1>Radiohead</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Biografía</a></li>
+            <li><a href="obras.html">Obras</a></li>
+            <li><a href="videos.html">Videos</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <h2>Videos explicativos</h2>
+    <p>Estos vídeos ofrecen análisis y contexto sobre dos discos clave de Radiohead. Si no cargan en la web puedes usar el enlace de abajo.</p>
+
+    <div class="video">
+        <iframe
+            src="https://www.youtube-nocookie.com/embed/A0bC9PKB_Yc"
+            title="The Genius Of Radiohead's OK Computer"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
+        <p><a href="https://www.youtube.com/watch?v=A0bC9PKB_Yc" target="_blank" rel="noopener">Abrir en YouTube — The Genius Of Radiohead's "Ok Computer".</a></p>
+       
+
+    <div class="video">
+      
+        <iframe
+            src="https://www.youtube-nocookie.com/embed/zSLlfuatiQc"
+            title="How Thom Yorke's Breakdown Created KID A"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
+        <p><a href="https://www.youtube.com/watch?v=zSLlfuatiQc" target="_blank" rel="noopener">Abrir en YouTube — How Thom Yorke's Breakdown Created "KID A".</a></p>
+       
+    </div>
+
+</main>
+
+<footer>
+    <p>Seroav · Diciembre 2025</p>
+</footer>
+
+</body>
+</html>
